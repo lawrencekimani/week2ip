@@ -1,5 +1,5 @@
 body{
-    color:orangered;
+    color: blue;
     background-color: 
 
 
@@ -14,7 +14,7 @@ body{
     color: blue;
   }
   card {
-    background-color:orchid;
+    background-color:blue;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
@@ -32,3 +32,4 @@ body{
     margin-bottom: 10px; /* Added */
     text-align: center;
   }
+  
