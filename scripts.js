@@ -43,25 +43,25 @@ function checkgender() {
     else if (Math.ceil(result) === 0 && gender === 'male') {
       alert("Born on Sunday,your akan name is " + boy[0]);
       }
-      else if (Math.ceil(result) === 1 && gender === 'female') {  
-        alert("Born on monday ,your akan name is " + girl[1]);
-          }
-      else if (Math.ceil(result) === 2 && gender === 'female') {  
-        alert("Born on Tuesday,your akan name is " + girl[2]);
+    else if (Math.ceil(result) === 1 && gender === 'female') {  
+      alert("Born on monday ,your akan name is " + girl[1]);
         }
-      else if (Math.ceil(result) === 3 && gender === 'female') {  
-        alert("Born on Wednesday,your akan name is " + girl[3]);
-        }
-      else if (Math.ceil(result) === 4 && gender === 'female') {  
-        alert("Born on Thursday,your akan name is " + girl[4]);
-        }
-      else if (Math.ceil(result) === 5 && gender === 'female') {  
-        alert("Born on Friday,your akan name is " + girl[5]);
-        }
-      else if (Math.ceil(result) === 6 && gender === 'female') {
-        alert("Born on Saturday,your akan name is " + girl[6]);
-        }
-      else if (Math.ceil(result) === 0 && gender === 'female') {
-        alert("Born on Sunday,your akan name is " + girl[0]);
-        }
+    else if (Math.ceil(result) === 2 && gender === 'female') {  
+      alert("Born on Tuesday,your akan name is " + girl[2]);
       }
+    else if (Math.ceil(result) === 3 && gender === 'female') {  
+      alert("Born on Wednesday,your akan name is " + girl[3]);
+      }
+    else if (Math.ceil(result) === 4 && gender === 'female') {  
+      alert("Born on Thursday,your akan name is " + girl[4]);
+      }
+    else if (Math.ceil(result) === 5 && gender === 'female') {  
+      alert("Born on Friday,your akan name is " + girl[5]);
+      }
+    else if (Math.ceil(result) === 6 && gender === 'female') {
+      alert("Born on Saturday,your akan name is " + girl[6]);
+      }
+    else if (Math.ceil(result) === 0 && gender === 'female') {
+      alert("Born on Sunday,your akan name is " + girl[0]);
+      }
+    }
