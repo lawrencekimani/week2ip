@@ -1,7 +1,7 @@
 body {
-    color: orange;
+    color: orangered;
     background-color: transparent;
-    text-align: auto;
+    text-align: center;
   }
   
   .jumbotron { 
@@ -45,7 +45,7 @@ body {
     margin-bottom: 10px; /* Added */
     text-align: center;
   }
-  
+
 
   
   
