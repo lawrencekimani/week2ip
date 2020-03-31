@@ -20,11 +20,11 @@ body{
     text-align: center;
   }
   form-group{
-    color:aqua;
+    color:blue;
     font-size: 25px;
   }
   radio-button{
-    color: aqua;
+    color:blue;
   }
   card {
     margin: 0 auto; /* Added */
