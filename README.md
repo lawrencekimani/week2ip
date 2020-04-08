@@ -1,1 +1,1 @@
-# week2ip
+{Birthday calculator} {A web application to calculate day of your birth}, {2020 version} By {LAWRENCE KIMANI KIMEMIA} Description {This is a web application that is designed to aid people in finding out the day they were born.The day of the week they were born is calculated using their Akan name and the day of the week they were born is determined. }
