@@ -5,4 +5,8 @@
 
 Setup/Installation Requirements {You can gain access to the code for the web application by forking from my github repository named iPweek-2.You can then make an offline copy by: *copying the url from my github repository. *typing git clone in the terminal followed by pasting the url YOu can also gain access of the web application online athttps://lawrencekimani.github.io/week2ip/Known Bugs {.There are minimal technical issues in the web application.THe web application may have tiling of the background picture which may take ;long to load.The calculator also requires refreshing to use it again.The calculator may need refreshing of the page in order to function.The calculator also alerts a wrong name before clicking ok then shows the correct name and date. }
 Technologies Used {Html was used in writing the content of the web application.Thereafter,Using css to style the web app together with Bootstrap.I used JavaScript in creating the calculator for the birthday.}
+Support and contact details {If you run into any issues or have questions, ideas or concerns contact me at @lawrenzolawkim@gmail.com or make a contribution to the code.}
+
+
+
 
